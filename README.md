@@ -1,4 +1,5 @@
 This project is aimed to apply the mapreduce algorithm to produce the counts of each word occurring from the Kaggle Covid 19’s dataset- https://www.kaggle.com/datasets/charlieharper/spatial-data-for-cord19-covid19-ordc. 
+
 Steps for Data Preprocessing, Data Analysis and Data Visualization: 
 1. The dataset from this variable was downloaded from its website and processed using SAS Enterprise Guide.
 2. MapReduce Word Count is then further tested and implemented in the VMware workstation player to obtain the word count. 
